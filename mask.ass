@@ -1,0 +1,16 @@
+Title:
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name,    Fontname,     Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style:  Default, 方正黑体_GBK, 38,       &H00000000,    &H00000000,      &H00000000,    &H00000000, -1,   0,      0,         0,         110,    105,    0,       0.00,  3,           2,       1,      1,         0,       0,       0,       134
+
+[Events]
+Format:   Layer, Start,      End,        Style,   Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,     0:00:00.00, 4:10:00.00, Default,     , 0000,    0000,    0000,          , MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
